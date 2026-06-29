@@ -1,0 +1,605 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>ScaniT — Privacy Policy & Terms of Use</title>
+
+  <style>
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body { font-family: 'Segoe UI', Arial, sans-serif; background: #f5f7fa; color: #333; }
+
+    .header { background: linear-gradient(135deg, #1565C0, #0D47A1); color: white; padding: 48px 20px; text-align: center; }
+
+    .header h1 { font-size: 32px; margin-bottom: 8px; }
+
+    .header p { opacity: 0.85; font-size: 15px; }
+
+    .lang-bar { background: white; border-bottom: 1px solid #e0e0e0; padding: 12px 20px; display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+
+    .lang-bar a { background: #f0f4ff; color: #1565C0; padding: 6px 16px; border-radius: 20px; text-decoration: none; font-size: 14px; font-weight: 600; border: 1px solid #c5d8ff; transition: all 0.2s; }
+
+    .lang-bar a:hover { background: #1565C0; color: white; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px 60px; }
+
+    .lang-section { padding-top: 50px; }
+
+    .lang-section h2.lang-title { font-size: 26px; color: #1565C0; border-bottom: 2px solid #1565C0; padding-bottom: 10px; margin-bottom: 28px; margin-top: 10px; }
+
+    .card { background: white; border-radius: 12px; padding: 24px 28px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+
+    .card h3 { font-size: 16px; color: #1565C0; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+
+    .card h3::before { content: ''; display: inline-block; width: 4px; height: 18px; background: #1565C0; border-radius: 2px; }
+
+    .card p { font-size: 14px; line-height: 1.75; color: #444; }
+
+    .card.warning { border-left: 4px solid #e65100; }
+
+    .card.warning h3 { color: #e65100; }
+
+    .card.warning h3::before { background: #e65100; }
+
+    .last-updated { font-size: 13px; color: #888; margin-bottom: 24px; }
+
+    footer { text-align: center; color: #aaa; font-size: 13px; padding: 30px 20px; border-top: 1px solid #e0e0e0; margin-top: 40px; }
+
+    a { color: #1565C0; }
+
+    [dir="rtl"] .card h3::before { margin-left: 8px; margin-right: 0; }
+
+  </style>
+
+</head>
+
+<body>
+
+ 
+
+<div class="header">
+
+  <h1>ScaniT</h1>
+
+  <p>Privacy Policy &amp; Terms of Use</p>
+
+</div>
+
+ 
+
+<div class="lang-bar">
+
+  <a href="#en">🇬🇧 English</a>
+
+  <a href="#he">🇮🇱 עברית</a>
+
+  <a href="#de">🇩🇪 Deutsch</a>
+
+  <a href="#da">🇩🇰 Dansk</a>
+
+</div>
+
+ 
+
+<div class="container">
+
+ 
+
+<!-- ═══════════════════════════════════════════════════ ENGLISH -->
+
+<div id="en" class="lang-section">
+
+  <h2 class="lang-title">Privacy Policy &amp; Terms of Use — English</h2>
+
+  <p class="last-updated">Last updated: June 2026 &nbsp;|&nbsp; Applies to: ScaniT (Android &amp; iOS)</p>
+
+ 
+
+  <div class="card">
+
+    <h3>1. Introduction</h3>
+
+    <p>ScaniT ("the App", "we", "our") is a document scanning application developed and maintained by Doron ("the Developer"). This Privacy Policy explains what information the App collects, how it is used, and what rights you have as a user. By downloading or using the App, you agree to the terms described in this document.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>2. Information We Collect</h3>
+
+    <p>The App does <strong>not collect, transmit, or store any personal data</strong> on external servers. All content created within the App — including scanned documents, PDF files, images, and signatures — is stored exclusively on your device's local storage. We have no access to this data at any time.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>3. No Third-Party Data Sharing</h3>
+
+    <p>We do not sell, rent, trade, or share any user data with third parties. The App does not integrate advertising networks, analytics platforms, or data brokers. No information about your usage, behavior, or content is transmitted to any external party.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>4. Device Permissions</h3>
+
+    <p><strong>Camera:</strong> Used solely to capture document images and scan QR codes within the App. The camera is never activated in the background or without explicit user action.<br><br>
+
+    <strong>Photo Library / Gallery:</strong> Used solely to allow you to import existing images for scanning. No images are accessed, copied, or uploaded without your explicit action.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>5. File Sharing</h3>
+
+    <p>PDF files and documents are shared exclusively when you explicitly initiate a share action within the App. The App never shares or transmits files automatically or without your direct consent.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>6. Data Security</h3>
+
+    <p>Since all data remains on your device, the security of your files is governed by your device's own security mechanisms (screen lock, encryption, etc.). We recommend keeping your device software up to date and using a secure screen lock to protect your documents.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>7. Children's Privacy</h3>
+
+    <p>The App is not directed at children under the age of 13. We do not knowingly collect any personal information from children. If you believe a child has used the App in a way that raises privacy concerns, please contact us immediately.</p>
+
+  </div>
+
+ 
+
+  <div class="card warning">
+
+    <h3>8. Limitation of Liability</h3>
+
+    <p>The App is provided <strong>"AS IS"</strong> without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. To the fullest extent permitted by applicable law, the Developer shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from your use of, or inability to use, the App — including but not limited to loss of data, loss of profits, or business interruption — even if the Developer has been advised of the possibility of such damages.</p>
+
+  </div>
+
+ 
+
+  <div class="card warning">
+
+    <h3>9. User Responsibility &amp; Lawful Use</h3>
+
+    <p>You are solely responsible for the content you scan, store, or share using the App. You agree not to use the App to scan, reproduce, or distribute materials protected by copyright or intellectual property rights without explicit permission from the rights holder. The Developer assumes no liability for any illegal, unauthorized, or harmful use of the App by its users.</p>
+
+  </div>
+
+ 
+
+  <div class="card warning">
+
+    <h3>10. Third-Party Liability Disclaimer</h3>
+
+    <p>The Developer bears no responsibility for any claims, damages, losses, or legal proceedings initiated by any third party in connection with your use of the App or the content you process through it.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>11. Changes to This Policy</h3>
+
+    <p>We reserve the right to update this Privacy Policy at any time. Changes will be posted on this page with an updated revision date. Continued use of the App after any changes constitutes your acceptance of the revised policy. We encourage you to review this page periodically.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>12. Governing Law</h3>
+
+    <p>This Privacy Policy and any disputes arising from it shall be governed by and construed in accordance with the laws of the State of Israel, without regard to its conflict of law provisions. Any legal action shall be brought exclusively in the competent courts of Israel.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>13. Contact Us</h3>
+
+    <p>If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:<br><br>
+
+    📧 <a href="mailto:my3tree1989@gmail.com">my3tree1989@gmail.com</a><br><br>
+
+    We will make every effort to respond within 7 business days.</p>
+
+  </div>
+
+</div>
+
+ 
+
+<!-- ═══════════════════════════════════════════════════ HEBREW -->
+
+<div id="he" class="lang-section" dir="rtl">
+
+  <h2 class="lang-title">מדיניות פרטיות ותנאי שימוש — עברית</h2>
+
+  <p class="last-updated">עדכון אחרון: יוני 2026 &nbsp;|&nbsp; חל על: ScaniT (Android ו-iOS)</p>
+
+ 
+
+  <div class="card">
+
+    <h3>1. מבוא</h3>
+
+    <p>ScaniT ("האפליקציה", "אנחנו") היא אפליקציית סריקת מסמכים פותחה ומתוחזקת על ידי דורון ("המפתח"). מדיניות פרטיות זו מסבירה אילו מידע האפליקציה אוספת, כיצד נעשה בו שימוש, ואילו זכויות עומדות לך כמשתמש. בהורדה או שימוש באפליקציה, אתה מסכים לתנאים המפורטים במסמך זה.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>2. מידע שאנו אוספים</h3>
+
+    <p>האפליקציה <strong>אינה אוספת, משדרת, או מאחסנת שום מידע אישי</strong> בשרתים חיצוניים. כל התוכן שנוצר באפליקציה — לרבות מסמכים סרוקים, קבצי PDF, תמונות וחתימות — נשמר אך ורק באחסון המקומי של המכשיר שלך. אין לנו גישה למידע זה בשום עת.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>3. אי שיתוף עם צדדים שלישיים</h3>
+
+    <p>אנו לא מוכרים, משכירים, סוחרים, או משתפים שום מידע של משתמשים עם צדדים שלישיים. האפליקציה אינה משלבת רשתות פרסום, פלטפורמות אנליטיקה, או מתווכי נתונים. לא מועבר שום מידע על השימוש שלך לכל גורם חיצוני.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>4. הרשאות מכשיר</h3>
+
+    <p><strong>מצלמה:</strong> משמשת אך ורק לצילום תמונות מסמכים וסריקת קודי QR. המצלמה לעולם אינה מופעלת ברקע או ללא פעולה מפורשת של המשתמש.<br><br>
+
+    <strong>גלריה / ספריית תמונות:</strong> משמשת אך ורק לייבוא תמונות קיימות לסריקה. לא ניגשים לתמונות, מעתיקים אותן, או מעלים אותן ללא פעולה מפורשת שלך.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>5. שיתוף קבצים</h3>
+
+    <p>קבצי PDF ומסמכים משותפים אך ורק כאשר אתה יוזם באופן מפורש פעולת שיתוף באפליקציה. האפליקציה לעולם לא משתפת או משדרת קבצים באופן אוטומטי או ללא הסכמתך הישירה.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>6. אבטחת מידע</h3>
+
+    <p>מאחר שכל המידע נשמר על המכשיר שלך, אבטחת הקבצים שלך נשלטת על ידי מנגנוני האבטחה של המכשיר עצמו. אנו ממליצים לשמור על תוכנת המכשיר מעודכנת ולהשתמש בנעילת מסך מאובטחת.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>7. פרטיות ילדים</h3>
+
+    <p>האפליקציה אינה מיועדת לילדים מתחת לגיל 13. אנו לא אוספים ביודעין מידע אישי מילדים. אם אתה סבור שילד השתמש באפליקציה בדרך המעוררת חשש לפרטיות, אנא פנה אלינו מיד.</p>
+
+  </div>
+
+ 
+
+  <div class="card warning">
+
+    <h3>8. הגבלת אחריות</h3>
+
+    <p>האפליקציה מסופקת <strong>"כפי שהיא" (AS IS)</strong> ללא כל אחריות מפורשת או משתמעת, לרבות אחריות לסחירות, התאמה למטרה מסוימת, או אי-הפרה. במידה המרבית המותרת על פי הדין החל, המפתח לא יהיה אחראי לכל נזק ישיר, עקיף, מקרי, מיוחד, תוצאתי, או עונשי הנובע מהשימוש באפליקציה — לרבות אובדן נתונים, אובדן רווחים, או הפרעה עסקית.</p>
+
+  </div>
+
+ 
+
+  <div class="card warning">
+
+    <h3>9. אחריות המשתמש ושימוש חוקי</h3>
+
+    <p>אתה אחראי באופן בלעדי לתוכן שאתה סורק, מאחסן, או משתף באמצעות האפליקציה. אתה מסכים לא להשתמש באפליקציה לסריקה, שכפול, או הפצה של חומרים המוגנים בזכויות יוצרים או זכויות קניין רוחני ללא רשות מפורשת מבעל הזכויות. המפתח אינו נושא באחריות לכל שימוש בלתי חוקי, בלתי מורשה, או מזיק באפליקציה על ידי משתמשיה.</p>
+
+  </div>
+
+ 
+
+  <div class="card warning">
+
+    <h3>10. כתב ויתור על אחריות כלפי צד שלישי</h3>
+
+    <p>המפתח אינו נושא בכל אחריות לתביעות, נזקים, הפסדים, או הליכים משפטיים שיוזמו על ידי כל צד שלישי בקשר עם השימוש שלך באפליקציה או התוכן שאתה מעבד באמצעותה.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>11. שינויים במדיניות זו</h3>
+
+    <p>אנו שומרים את הזכות לעדכן מדיניות פרטיות זו בכל עת. שינויים יפורסמו בדף זה עם תאריך עדכון מעודכן. המשך השימוש באפליקציה לאחר כל שינוי מהווה הסכמתך למדיניות המעודכנת.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>12. דין חל וסמכות שיפוט</h3>
+
+    <p>מדיניות פרטיות זו וכל מחלוקת הנובעת ממנה יחולו עליהם ויפורשו בהתאם לחוקי מדינת ישראל. כל הליך משפטי יוגש אך ורק בבתי המשפט המוסמכים בישראל.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>13. צור קשר</h3>
+
+    <p>לשאלות, חששות, או בקשות בנוגע למדיניות פרטיות זו, אנא פנה אלינו:<br><br>
+
+    📧 <a href="mailto:my3tree1989@gmail.com">my3tree1989@gmail.com</a><br><br>
+
+    נעשה כל מאמץ להשיב תוך 7 ימי עסקים.</p>
+
+  </div>
+
+</div>
+
+ 
+
+<!-- ═══════════════════════════════════════════════════ GERMAN -->
+
+<div id="de" class="lang-section">
+
+  <h2 class="lang-title">Datenschutzrichtlinie &amp; Nutzungsbedingungen — Deutsch</h2>
+
+  <p class="last-updated">Zuletzt aktualisiert: Juni 2026 &nbsp;|&nbsp; Gilt für: ScaniT (Android &amp; iOS)</p>
+
+ 
+
+  <div class="card">
+
+    <h3>1. Einleitung</h3>
+
+    <p>ScaniT („die App", „wir") ist eine Dokumentenscanner-Anwendung, die von Doron („der Entwickler") entwickelt und gepflegt wird. Diese Datenschutzrichtlinie erläutert, welche Informationen die App erfasst, wie sie verwendet werden und welche Rechte Sie als Nutzer haben. Durch das Herunterladen oder Verwenden der App stimmen Sie den in diesem Dokument beschriebenen Bedingungen zu.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>2. Erhobene Informationen</h3>
+
+    <p>Die App <strong>erfasst, überträgt oder speichert keine personenbezogenen Daten</strong> auf externen Servern. Alle in der App erstellten Inhalte — einschließlich gescannter Dokumente, PDF-Dateien, Bilder und Unterschriften — werden ausschließlich im lokalen Speicher Ihres Geräts gespeichert.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>3. Keine Weitergabe an Dritte</h3>
+
+    <p>Wir verkaufen, vermieten, handeln oder teilen keine Nutzerdaten mit Dritten. Die App integriert keine Werbenetzwerke, Analyseplattformen oder Datenmakler.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>4. Geräteberechtigungen</h3>
+
+    <p><strong>Kamera:</strong> Wird ausschließlich zum Aufnehmen von Dokumentenbildern und zum Scannen von QR-Codes verwendet. Die Kamera wird nie im Hintergrund aktiviert.<br><br>
+
+    <strong>Fotogalerie:</strong> Wird ausschließlich zum Importieren vorhandener Bilder verwendet. Keine Bilder werden ohne Ihre ausdrückliche Aktion abgerufen oder hochgeladen.</p>
+
+  </div>
+
+ 
+
+  <div class="card warning">
+
+    <h3>5. Haftungsbeschränkung</h3>
+
+    <p>Die App wird <strong>„WIE BESEHEN" (AS IS)</strong> ohne ausdrückliche oder stillschweigende Garantie bereitgestellt. Im größtmöglichen gesetzlich zulässigen Umfang haftet der Entwickler nicht für direkte, indirekte, zufällige, besondere, Folge- oder Strafschäden, die sich aus der Nutzung der App ergeben.</p>
+
+  </div>
+
+ 
+
+  <div class="card warning">
+
+    <h3>6. Nutzerverantwortung &amp; rechtmäßige Nutzung</h3>
+
+    <p>Sie sind allein verantwortlich für die Inhalte, die Sie mit der App scannen, speichern oder teilen. Sie stimmen zu, die App nicht zum Scannen, Reproduzieren oder Verbreiten von urheberrechtlich geschützten Materialien ohne ausdrückliche Genehmigung zu verwenden.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>7. Änderungen dieser Richtlinie</h3>
+
+    <p>Wir behalten uns das Recht vor, diese Datenschutzrichtlinie jederzeit zu aktualisieren. Änderungen werden auf dieser Seite mit einem aktualisierten Datum veröffentlicht.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>8. Kontakt</h3>
+
+    <p>Bei Fragen oder Anliegen zu dieser Datenschutzrichtlinie kontaktieren Sie uns bitte unter:<br><br>
+
+    📧 <a href="mailto:my3tree1989@gmail.com">my3tree1989@gmail.com</a></p>
+
+  </div>
+
+</div>
+
+ 
+
+<!-- ═══════════════════════════════════════════════════ DANISH -->
+
+<div id="da" class="lang-section">
+
+  <h2 class="lang-title">Privatlivspolitik &amp; Vilkår — Dansk</h2>
+
+  <p class="last-updated">Sidst opdateret: Juni 2026 &nbsp;|&nbsp; Gælder for: ScaniT (Android &amp; iOS)</p>
+
+ 
+
+  <div class="card">
+
+    <h3>1. Introduktion</h3>
+
+    <p>ScaniT ("appen", "vi") er en dokumentscanningsapplikation udviklet og vedligeholdt af Doron ("udvikleren"). Denne privatlivspolitik forklarer, hvilke oplysninger appen indsamler, hvordan de bruges, og hvilke rettigheder du har som bruger.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>2. Oplysninger vi indsamler</h3>
+
+    <p>Appen <strong>indsamler, transmitterer eller gemmer ingen personlige data</strong> på eksterne servere. Alt indhold oprettet i appen gemmes udelukkende på din enheds lokale lager.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>3. Ingen deling med tredjepart</h3>
+
+    <p>Vi sælger, udlejer eller deler ingen brugerdata med tredjeparter. Appen integrerer ingen reklamenetværk, analyseplat­forme eller datamæglere.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>4. Enhedstilladelser</h3>
+
+    <p><strong>Kamera:</strong> Bruges udelukkende til at fotografere dokumenter og scanne QR-koder. Kameraet aktiveres aldrig i baggrunden.<br><br>
+
+    <strong>Fotogalleri:</strong> Bruges udelukkende til at importere eksisterende billeder. Ingen billeder tilgås eller uploades uden din udtrykkelige handling.</p>
+
+  </div>
+
+ 
+
+  <div class="card warning">
+
+    <h3>5. Ansvarsbegrænsning</h3>
+
+    <p>Appen leveres <strong>"SOM DEN ER" (AS IS)</strong> uden nogen udtrykkelig eller underforstået garanti. Udvikleren er ikke ansvarlig for direkte, indirekte, hændelige, særlige eller følgemæssige skader som følge af brug af appen.</p>
+
+  </div>
+
+ 
+
+  <div class="card warning">
+
+    <h3>6. Brugeransvar &amp; lovlig brug</h3>
+
+    <p>Du er eneansvarlig for det indhold, du scanner, gemmer eller deler ved hjælp af appen. Du accepterer ikke at bruge appen til at scanne, reproducere eller distribuere ophavsretligt beskyttet materiale uden udtrykkelig tilladelse.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>7. Ændringer til denne politik</h3>
+
+    <p>Vi forbeholder os retten til at opdatere denne privatlivspolitik til enhver tid. Ændringer vil blive offentliggjort på denne side med en opdateret dato.</p>
+
+  </div>
+
+ 
+
+  <div class="card">
+
+    <h3>8. Kontakt</h3>
+
+    <p>For spørgsmål eller bekymringer vedrørende denne privatlivspolitik, kontakt os venligst på:<br><br>
+
+    📧 <a href="mailto:my3tree1989@gmail.com">my3tree1989@gmail.com</a></p>
+
+  </div>
+
+</div>
+
+ 
+
+</div><!-- end container -->
+
+ 
+
+<footer>
+
+  © 2026 ScaniT · All rights reserved &nbsp;|&nbsp;
+
+  <a href="mailto:my3tree1989@gmail.com">my3tree1989@gmail.com</a>
+
+</footer>
+
+ 
+
+</body>
+
+</html>
+
+ 
+
+ 
+CONFIDENTIALITY NOTICE: This email transmission, and any documents, files or previous email messages attached to it, may contain confidential information. If you are not the intended recipient or a person responsible for delivering it to the intended recipient, you are hereby notified that any disclosure, copying, distribution or use of any of the information contained in or attached to this message is STRICTLY PROHIBITED. If you have received this transmission in error, please immediately destroy the original transmission and its attachments without reading them or saving them to disk. Email communications may be monitored by KLA as permitted by applicable law and regulations. For more information, read our Privacy Policy at www.kla.com/privacy-policy. Thank you.
